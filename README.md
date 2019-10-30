@@ -4,14 +4,22 @@ Atividades em C
 
 **2 -** Implemente um programa que calcule e retorne o somatório dos N primeiros números de um dado vetor. O valor de N deverá ser fornecido pelo usuário.
 
-**3 -** Implemente um programa que exibe um histograma da variação da temperatura durante a semana. Por exemplo, se as temperaturas em t forem 19, 21, 25, 22, 20, 17 e 15°C, o programa deverá exibir:  
+**3 -** Implemente um programa que exibe um histograma da variação da temperatura durante a semana. Por exemplo, se as temperaturas em t forem 19, 21, 25, 22, 20, 17 e 15°C, o programa deverá exibir:
+
 D: *******************
+
 S: *********************
+
 T: *************************
+
 Q: ***********************
+
 Q: ********************
+
 S: *****************
-S: *************** 
+
+S: ***************
+
  Suponha que as temperaturas em t sejam todas positivas e que nenhuma seja maior que 50°C.
 
 **4 -** Crie um programa que dada uma matriz 3X4, execute as seguintes ações: busca, inserção, remoção e impressão. O programa deverá apresentar um menu inicial ao usuário mostrando as seguintes opções: busca sequencial por posição, busca por elemento, inserção, remoção, impressão, sair. 
